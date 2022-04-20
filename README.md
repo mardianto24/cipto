@@ -1,0 +1,2 @@
+# cipto
+INHERITANCE
